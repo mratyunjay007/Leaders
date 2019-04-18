@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Leaders</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enetr_password">Enetr Password</string>
+    <string name="to_reset_your_password_click_here">To Reset Your Password? CLICK HERE !</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

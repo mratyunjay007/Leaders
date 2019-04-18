@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="VivekanandVision">
+
+        <item>“Take risks in your life, If you win, you can lead! If you loose, you can guide!"</item>
+        <item> “Strength is life; weakness is death.”</item>
+        <item>“Experience is the only teacher we have. we may talk and reason all our lives,
+            but we shall not understand a word of truth.”</item>
+        <item> “If you think yourselves strong, strong you will be.”</item>
+        <item>“Take up one idea, make that one idea your life. Think of it, dream of it,
+            Live on that idea let the brain, muscles, nerves, every part of your body be full of that idea,
+            and just leave every other idea alone. This is the way to success.”  </item>
+        <item>Serve man Serve God.</item>
+        <item>They alone live, who live for others.</item>
+        <item>Neither seek nor avoid, take what comes.</item>
+        <item>You are the creator of your own destiny.</item>
+        <item>In one word, this ideal is that you are divine.</item>
+        <item>The greatest sin is to think that you are weak.</item>
+        <item> External nature is only internal nature writ large.</item>
+        <item>Arise, awake and stop not till the goal is reached.</item>
+        <item>Never think there is anything impossible for the soul.</item>
+        <item>You cannot believe in God until you believe in yourself.</item>
+        <item>All power is within you; you can do anything and everything.</item>
+        <item>In a conflict between the heart and the brain, follow your heart.</item>
+        <item>Desire, ignorance, and inequality—this is the trinity of bondage.</item>
+        <item>Blessed are they whose bodies get destroyed in the service of others.</item>
+        <item>That man has reached immortality who is disturbed by nothing material.</item>
+        <item>The world is the great gymnasium where we come to make ourselves strong.</item>
+        <item>Truth can be stated in a thousand different ways, yet each one can be true.</item>
+        <item> The fire that warms us can also consume us; it is not the fault of the fire.</item>
+        <item>Meditation can turn fools into sages but unfortunately, fools never meditate.</item>
+        <item>Both attachment and detachment perfectly developed make a man great and happy.</item>
+        <item>The power of concentration is the only key to the treasure-house of knowledge.</item>
+        <item>The greatest religion is to be true to your own nature. Have faith in yourselves.</item>
+        <item>You will be nearer to heaven through football than through the study of the Gita.</item>
+        <item>GOD is to be worshipped as the one beloved, dearer than everything in this and next life.</item>
+        <item>“Stand up, be bold, and take the blame on your own shoulders. Do not go about throwing mud at other;
+            for all the faults you suffer from, you are the sole and only cause.”</item>
+        <item>“Learn everything that is good from others, but bring it in, and in your own way adsorb it;
+            do not become others.”</item>
+        <item>“You should work like a master and not as a slave; work incessantly, but do not do a slave’s work.”</item>
+        <item> “Whatever you believe, that you will be, If you believe yourselves to be ages, ages you will be tomorrow.
+            There is nothing to obstruct you.”</item>
+        <item>“If i love myself despite my infinite faults, how can i hate anyone at the glimpse of a few faults”..!</item>
+        <item>“All power is within you. You can do anything and everything. Believe in that. Do not believe that you are weak;
+            do ot believe that you are half-crazy lunatics, as most of us do nowadays. Stand up and express the divinity within
+            you.”</item>
+        <item>That which is selfish is immoral, and that which is unselfish is moral.</item>
+        <item>“Talk to yourself once in a day.. otherwise you may miss meeting an excellent person in this world.”</item>
+        <item> “Throw away all weakness. tell your body that it is strong. Tell your mind that it is
+            strong and have unbound faith and hope in yourself.”</item>
+        <item> “When you are doing any work.. do it as worship, as he highest worship,
+            and devote your whole life to it for the time being.”</item>
+        <item>“The mistake is that we want to tie the whole world down
+            to our own plane of thought and to make out mind the measure of the whole universe.”</item>
+    </string-array>
+
+
+    <string-array name="VivekanandTitle">
+        <item>Introduction </item>
+        <item>National Youth Day </item>
+        <item>Vivekanand in Family </item>
+        <item>How did he in study and activities? </item>
+        <item>Vivekanand asked does god exist? </item>
+        <item>What answer Vivekanand get? </item>
+        <item>Vivekanand asked god to give some? </item>
+        <item>RamKrishna Death</item>
+        <item>Taking shape of Vivekanand</item>
+        <item>Decision to cure the diseases of society.</item>
+        <item>World introduction to Vivekanand</item>
+        <item>Swami Ji work and Methodology to Success</item>
+        <item>Fixed appointment with God</item>
+        <item>Netaji Subhash Chandra Bose surrender to Swami Ji</item>
+        <item>One Memory </item>
+    </string-array>
+
+    <string-array name="VivekanandLife">
+        <item>Brief Summary About Vivekanand </item>
+        <item>Why 12 January ? </item>
+        <item>One of Eight son of his Mother </item>
+        <item>What do you think ? </item>
+        <item>Does he found answer ? </item>
+        <item>Guess Yes or NO... </item>
+        <item>God give me some to become great. </item>
+        <item>Loss of Guru a bad NEWS </item>
+        <item>Now the time has come..</item>
+        <item>A great decision has been finalised.</item>
+        <item>How he achieved name and fame beginning...</item>
+        <item>"Arise Awake and Stop not till the Goal is Reached"</item>
+        <item>Mahasamadhi and says good bye to World</item>
+        <item>Swami Vivekanand spirit of India </item>
+        <item> Does Mahatma Gandhi ever meet Swami Ji?</item>
+    </string-array>
+
+    <string-array name="VivekanandStory">
+
+        <item>
+            Date of Birth: January12, 1863"\n\n"
+
+            Place of Birth: Calcutta, Bengal Presidency (Now Kolkata in West Bengal)"\n\n"
+
+            Parents: Vishwanath Dutta (Father) and Bhuvaneshwari Devi (Mother)"\n\n"
+
+            Education: Calcutta Metropolitan School; Presidency College, Calcutta"\n\n"
+
+            Institutions: Ramakrishna Math; Ramakrishna Mission; Vedanta Society of New York"\n\n"
+
+            Religious Views: Hinduism"\n\n"
+
+            Philosophy: Advaita Vedanta"\n\n"
+
+            Publications: Karma Yoga (1896); Raja Yoga (1896); Lectures from Colombo to Almora (1897); My Master (1901)"\n\n"
+
+            Death: July 4, 1902"\n\n"
+
+            Place of Death: Belur Math, Belur, Bengal"\n\n"
+
+            Memorial: Belur Math, Belur, West Bengal"\n\n"
+        </item>
+
+        <item>Swami Vivekananda was a Hindu monk and one of the most celebrated spiritual leaders of India.
+            He was more than just a spiritual mind, he was a prolific thinker, great orator and passionate patriot.
+            He carried on the free-thinking philosophy of his guru, Ramakrishna Paramhansa forward into a new paradigm."\n"
+            He worked tirelessly towards betterment of the society, in servitude of the poor and needy,
+            dedicating his all for his country. He was responsible for the revival of Hindu spiritualism and established
+            Hinduism as a revered religion on world stage. His message of universal brotherhood and self-awakening remains
+            relevant especially in the current backdrop of widespread political turmoil around the world. The young monk and
+            his teachings have been an inspiration to many, and his words have become goals of self-improvement especially for
+            the youth of the country. For this very reason, his birthday January 12, is celebrated as the
+            National Youth Day in India.</item>
+
+        <item>Born Narendranath Dutta, into an affluent Bengali family in Calcutta, Vivekananda was one
+            of the eight children of Vishwanath Dutta and Bhuvaneshwari Devi. He was born on January 12,
+            1863, on the occasion of Makar Sankranti. Father Vishwanath was a successful attorney with considerable
+            influence in society. Narendranath’s mother Bhuvaneshwari was a woman endowed with a strong, God-fearing
+            mind who had a great impact on her son. </item>
+
+        <item>As a young boy, Narendranath displayed sharp intellect. His mischievous nature belied his interest in music,
+            both instrumental as well as vocal. He excelled in his studies as well, first at the Metropolitan institution,
+            and later at the Presidency College in Calcutta. By the time he graduated from the college, he had acquired a
+            vast knowledge of different subjects. He was active in sports, gymnastics, wrestling and body building. He was
+            an avid reader and read up on almost everything under the sun. He perused the Hindu scriptures like the Bhagvad
+            Gita and the Upanishads on one hand, while on the other hand he studied western philosophy, history and spirituality
+            by David Hume, Johann Gottlieb Fichte and Herbert Spencer.</item>
+
+        <item>Although Narendranath’s mother was a devout woman and he had grown up in a religious atmosphere
+            at home, he underwent a deep spiritual crisis at the start of his youth. His well-studied knowledge
+            led him to question the existence of God and for some time he believed in Agnosticism. Yet he could
+            not completely ignore the existence of a Supreme Being. He became associated with Brahmo Movement led
+            by Keshab Chandra Sen, for some time. The Bramho Samaj recognised one God unlike the idol-worshipping,
+            superstition-ridden Hinduism. The host of philosophical questions regarding the existence of God roiling
+            through his mind remained unanswered. During this spiritual crisis, Vivekananda first heard about
+            Sri Ramakrishna from William Hastie, the Principal of the Scottish Church College.</item>
+
+        <item>Earlier, to satisfy his intellectual quest for God, Narendranath visited prominent spiritual
+            leaders from all religions, asking them a single question, “Have you seen God?” Each time he came
+            away without a satisfying answer."\n"
+            He put forward the same question to Sri Ramkrishna at his residence in Dakshinewar Kali Temple compounds.
+            Without a moment\'s hesitation, Sri Ramakrishna replied: "Yes, I have. I see God as clearly as I see you,
+            only in a much deeper sense". Vivekananda, initially unimpressed by the simplicity of Ramkrishna, was
+            astonished with Ramakrishna\'s reply. Ramakrishna gradually won over this argumentative young man with his
+            patience and love. The more Narendranath visited Dakshineshwar, the more his questions were answered.</item>
+
+        <item>In 1884, Naredranath underwent a considerable financial distress due to the death of his
+            father as he had to support his mother and younger siblings. He asked Ramakrishna to pray to
+            the Goddess for the financial welfare of his family. On Ramakrishna’s suggestion he himself
+            went to the temple to pray. But once he faced the Goddess he could not ask for money and wealth,
+            instead he asked for ‘Vivek’ (conscience) and ‘Bairagya’ (reclusion). That day marked the complete
+            spiritual awakening of Narendranath and he found himself drawn to an ascetic way of life.</item>
+
+        <item>During the middle of 1885, Ramakrishna, who had been suffering from throat cancer, fell seriously ill.
+            In September 1885, Sri Ramakrishna was moved to Shyampukur in Culcutta, and a few months later Narendranath
+            took a rented villa at Cossipore. Here, he formed a group of young people who were ardent followers of
+            Sri Ramakrishna and together they nursed their Guru with devoted care. On 16 August 1886, Sri Ramakrishna
+            gave up his mortal body.</item>
+
+        <item>After the demise of Sri Ramakrishna, around fifteen of his disciples including Narendranath
+            began to live together in a dilapidated building at Baranagar in North Calcutta, which was
+            named Ramakrishna Math, the monastic order of Ramakrishna. Here, in 1887, they formally renounced
+            all ties to the world and took vows of monkhood. The brotherhood rechristened themselves and
+            Narendranath emerged as Vivekananda meaning "the bliss of discerning wisdom". </item>
+
+        <item>The brotherhood lived off on alms donated voluntarily by patrons during holy begging or ‘madhukari’,
+            performed yoga and meditation. Vivekananda left the Math in 1886 and went on a tour of India on foot
+            as a ‘Parivrajak’. He travelled the breadth of the country, absorbing much of the social, cultural and
+            religious aspects of the people he came in contact with. He witnessed the adversities of life that the
+            common people faced, their ailments, and vowed to dedicate his life to bring relief to these suffering.</item>
+
+        <item>During the course of his wanderings, he came to know about the World Parliament of Religions
+            being held in Chicago, America in 1893. He was keen to attend the meeting, to represent India,
+            Hinduism and his Guru Sri Ramakrishna’s philosophies. He found assertion of his wishes while he was
+            meditating on the rocks of Kanyakumari, the southernmost tip of India. Money was raised by his disciples
+            in Madras (now Chennai) and Ajit Singh, Raja of Khetri, and Vivekananda left for Chicago on May 31, 1893 from Bombay.
+            "\n\n"
+            He faced insurmountable hardships on his way to Chicago, but his spirits remained as indomitable as ever.
+            On 11 September 1893, when the time came, he took the stage and stunned everyone with his opening line
+            “My brothers and sisters of America”. He received a standing ovation from the audience for the opening phrase.
+            He went on to describe the principles of Vedanta and their spiritual significance, putting Hinduism on the map of
+            World Religions.He spent the next two and a half years in America and founded the Vedanta Society of New York in
+            1894. He also travelled to the United Kingdom to preach the tenets of the Vedanta and Hindu Spiritualism
+            to the western world.</item>
+
+        <item>Vivekananda returned to India in 1897 amidst warm reception from the common and royal alike.
+            He reached Calcutta after a series of lectures across the country and founded the Ramakrishna Mission
+            on May 1, 1897 at Belur Math near Calcutta. The goals of the Ramakrishna Mission were based on the ideals
+            of Karma Yoga and its primary objective was to serve the poor and distressed population of the country.
+            The Ramakrishna Mission undertook various forms of social service like establishing and running school,
+            collages and hospitals, propagation of practical tenets of Vedanta through conference, seminars and workshops,
+            initiating relief and rehabilitation work across the country.
+            "\n\n"
+            His religious conscience was an amalgamation of Sri Ramakrishna’s spiritual teachings of Divine manifestation
+            and his personal internalization of the Advaita Vedanta philosophy. He directed to achieve the divinity of the
+            soul by undertaking selfless work, worship and mental discipline. According to Vivekananda, the ultimate goal is
+            to achieve freedom of the soul and that encompasses the entirety of one’s religion. "\n\n"
+
+            Swami Vivekananda was a prominent nationalist, and had the overall welfare of his countrymen topmost
+            in his mind. He urged his fellow countrymen to “Arise, awake and stop not till the goal is reached”.</item>
+
+        <item>
+            Swami Vivekananda had predicted that he will not live till the age of forty. On July 4, 1902,
+            he went about his days’ work at the Belur Math, teaching Sanskrit grammar to the pupils.
+            He retired to his room in the evening and died during meditation at around 9. He is said to have attained
+            ‘Mahasamadhi’ and the great saint was cremated on the Banks of river Ganga.
+        </item>
+
+        <item>
+            Swami Vivekananda revealed to the world the true foundations of India\'s unity as a nation.
+            He taught how a nation with such a vast diversity can be bound together by a feeling of humanity
+            and brother-hood. "\n\n"
+
+            Vivekananda emphasized the points of drawbacks of western culture and the contribution of India to overcome
+            those. Netaji Subhash Chandra Bose once said: "Swamiji harmonized the East and the West, religion and science,
+            past and present. And that is why he is great. Our countrymen have gained unprecedented self-respect, self-reliance
+            and self-assertion from his teachings." "\n\n"
+
+            Vivekananda was successful in constructing a virtual bridge between the culture of East and the West. He
+            interpreted the Hindu scriptures, philosophy and the way of life to the Western people. He made them realize
+            that in spite of poverty and backwardness, India had a great contribution to make to world culture.
+            He played a key role in ending India\'s cultural isolation from the rest of the world.
+        </item>
+
+    <item>Mahatma Gandhi once visited West Bengal in matter of some work, he does not get any living arrangement,
+        and was roaming in Calcutta, so he decided to have a Glimpse of Swami Vivekanand, but when he reached Math, he come
+        to know that Swami ji was ill (suffering from fever), and he was not present in Math, so Mahatma Gandhi missed
+        to meet Swami Vivekanand The Spirit of India.</item>
+
+    </string-array>
+
+    <string-array name="GandhiVision">
+        <item>“Live as if you were to die tomorrow. Learn as if you were to live forever.”</item>
+        <item>“A man is but a product of his thoughts. What he thinks he becomes.”</item>
+        <item> “Be the change that you want to see in the world.”</item>
+        <item> “The weak can never forgive. Forgiveness is an attribute of the strong.”</item>
+        <item>“I will not let anyone walk through my mind with their dirty feet.”</item>
+        <item>“Strength does not come from physical capacity. It comes from an indomitable will.”</item>
+        <item>“An ounce of patience is worth more than a tonne of preaching.”</item>
+        <item>“Change yourself – you are in control.”</item>
+        <item>“See the good in people and help them.”</item>
+        <item>“Without action, you aren’t going anywhere.”</item>
+        <item>“Take care of this moment.”</item>
+        <item>“Be congruent, be authentic, be your true self.”</item>
+        <item>“Continue to grow and evolve.”</item>
+        <item>“A no uttered from the deepest conviction is better than a ‘Yes’
+            uttered merely to please, or worse, to avoid trouble.”</item>
+        <item>“Glory lies in the attempt to reach one’s goal and not in reaching it.”</item>
+        <item>"An eye for an eye will make the whole world blind.”</item>
+        <item>“Happiness is when what you think, what you say, and what you do are in harmony.”</item>
+        <item>“A coward is incapable of exhibiting love; it is the prerogative of the brave.”</item>
+        <item>“Nobody can hurt me without my permission.”</item>
+        <item>“In a gentle way, you can shake the world.”</item>
+    </string-array>
+
+<string-array name="GandhiTitle">
+    <item>Introduction</item>
+    <item>International Day of Non-Voilence</item>
+    <item>Glipse of Childhood</item>
+    <item>As a Teenager </item>
+    <item>Education </item>
+    <item>In Foreign</item>
+    <item>Reason Behind Congress Party</item>
+    <item>Mistry of Champaran</item>
+    <item>A new movement was taking shape</item>
+    <item>Khilafat Movement</item>
+    <item>Non-cooperation Movement </item>
+    <item>Swaraj</item>
+    <item>Simmion Commision</item>
+    <item>Buiseness over Table</item>
+    <item>Final War with British Government</item>
+    <item>When A Country broke down</item>
+    <item>Death or End </item>
+    <item>Why portrait as National Father of India?</item>
+    <item>Mahatma</item>
+
+</string-array>
+    <string-array name="GandhiLife">
+        <item>Background Details</item>
+        <item>Why 2nd October ?</item>
+        <item>How it was?</item>
+        <item>Addicted with ..</item>
+        <item>Was he good at school?</item>
+        <item>What happened in South Africa</item>
+        <item>How it comes into People\'s life</item>
+        <item>Champaran Satyagrah</item>
+        <item>Kheda Satyagrah</item>
+        <item>Could not happen ?</item>
+        <item>Gandhi vow..</item>
+        <item>Foundation has been inaugurated..</item>
+        <item>Salt Satyagrah and Dandi March</item>
+        <item>Round Table Conference</item>
+        <item>Quit India Movement</item>
+        <item>Two parts of One Country</item>
+        <item>Sad News or Good News ?</item>
+        <item>Reason behind Legend</item>
+        <item>Foriegners does not know?</item>
+
+    </string-array>
+
+    <string-array name="GandhiStory">
+        <item>Date of Birth: October 2, 1869"\n\n"
+            Place of Birth: Porbandar, British India (now Gujarat)"\n\n"
+            Date of Death: January 30, 1948"\n\n"
+            Place of Death: Delhi, India"\n\n"
+            Cause of Death: Assassination"\n\n"
+            Professions: Lawyer, politician, activist, writer"\n\n"
+            Spouse: Kasturba Gandhi"\n\n"
+            Children: Harilal Gandhi, Manilal Gandhi, Ramdas Gandhi and Devdas Gandhi"\n\n"
+            Father: Karamchand Uttamchand Gandhi"\n\n"
+            Mother: Putlibai Gandhi"\n\n"</item>
+
+        <item>Mohandas Karamchand Gandhi was an eminent freedom activist and an influential political
+            leader who played a dominant role in India\'s struggle for independence. Gandhi is known
+            by different names, such as Mahatma (a great soul), Bapuji (endearment for father in Gujarati)
+            and Father of the Nation. Every year, his birthday is celebrated as Gandhi Jayanti, a national
+            holiday in India, and also observed as the International Day of Nonviolence. Mahatma Gandhi,
+            as he is most commonly referred to, was instrumental in liberating India from the clutches of
+            the British. With his unusual yet powerful political tools of Satyagraha and non-violence,
+            he inspired several other political leaders all over the world including the likes of
+            Nelson Mandela, Martin Luther King Jr and Aung San Suu Kyi. Gandhi, apart from helping India
+            triumph in its fight for independence against the English, also led a simple and righteous life,
+            for which he is often revered. Gandhi\'s early life was pretty much ordinary, and he became a great
+            man during the course of his life. This is one of the main reasons why Gandhi is followed by millions,
+            for he proved that one can become a great soul during the course of one\’s life, should they possess the
+            will to do so</item>
+
+        <item>M. K. Gandhi was born in the princely state of Porbandar, which is located in modern-day Gujarat.
+            He was born into a Hindu merchant caste family to Karamchand Gandhi, diwan of Porbandar and his fourth
+            wife, Putlibai. Gandhi\’s mother belonged to an affluent Pranami Vaishnava family. As a child, Gandhi was
+            a very naughty and mischievous kid. In fact, his sister Raliat had once revealed that hurting dogs by
+            twisting their ears was among Maohandas favorite pastime. During the course of his childhood, Gandhi
+            befriended Sheikh Mehtab, who was introduced to him by his older brother. Gandhi, who was raised by a
+            vegetarian family, started eating meat. It is also said that a young Gandhi accompanied Sheikh to a brothel,
+            but left the place after finding it uncomfortable. Gandhi, along with one of his relatives, also cultivated
+            the habit of smoking after watching his uncle smoke. After smoking the leftover cigarettes, thrown away by
+            his uncle, Gandhi started stealing copper coins from his servants in order to buy Indian cigarettes. When he
+            could no longer steal, he even decided to commit suicide such was Gandhi\’s addiction to cigarettes. At the age
+            of fifteen, after stealing a bit of gold from his friend Sheikh\’s armlet, Gandhi felt remorseful and confessed
+            to his father about his stealing habit and vowed to him that he would never commit such mistakes again.</item>
+
+        <item>In his early years, Gandhi was deeply influenced by the stories of Shravana and Harishchandra that reflected
+            the importance of truth. Through these stories and from his personal experiences, he realized that truth and
+            love are among the supreme values. Mohandas married Kasturba Makhanji at the age of 13. Gandhi later went on
+            to reveal that the marriage didn\’t mean anything to him at that age and that he was happy and excited only about
+            wearing new set of clothes. But then as days passed by, his feelings for her turned lustful, which he later confessed
+            with regret in his autobiography. Gandhi had also confessed that he could no more concentrate in school because
+            of his mind wavering towards his new and young wife.</item>
+
+        <item>After his family moved to Rajkot, a nine year old Gandhi was enrolled at a local school, where he studied
+            the basics of arithmetic, history, geography and languages. When he was 11 years old, he attended a high school
+            in Rajkot. He lost an academic year in between because of his wedding but later rejoined the school and eventually
+            completed his schooling. He then dropped out of Samaldas College in Bhavnagar State after joining it in the year 1888.
+            Later Gandhi was advised by a family friend Mavji Dave Joshiji to pursue law in London. Excited by the idea,
+            Gandhi managed to convince his mother and wife by vowing before them that he would abstain from eating meat
+            and from having sex in London. Supported by his brother, Gandhi left to London and attended the Inner Temple
+            and practiced law. During his stay in London, Gandhi joined a Vegetarian Society and was soon introduced to
+            Bhagavad Gita by some of his vegetarian friends. The contents of Bhagavad Gita would later have a massive
+            influence on his life. He came back to India after being called to the bar by Inner Temple.</item>
+
+        <item>After returning to India, Gandhi struggled to find work as a lawyer. In 1893, Dada Abdullah,
+            a merchant who owned a shipping business in South Africa asked if he would be interested to serve
+            as his cousin\’s lawyer in South Africa. Gandhi gladly accepted the offer and left to South Africa,
+            which would serve as a turning point in his political career. "\n\n"
+            In South Africa, he faced racial discrimination directed towards blacks and Indians. He faced humiliation
+            on many occasions but made up his mind to fight for his rights. This turned him into an activist and he
+            took upon him many cases that would benefit the Indians and other minorities living in South Africa.
+            Indians were not allowed to vote or walk on footpaths as those privileges were limited strictly to the
+            Europeans. Gandhi questioned this unfair treatment and eventually managed to establish an organization
+            named ‘Natal Indian Congress\’ in 1894. After he came across an ancient Indian literature known as ‘Tirukkural’,
+            which was originally written in Tamil and later translated into many languages, Gandhi was influenced by the
+            idea of Satyagraha (devotion to the truth) and implemented non-violent protests around 1906. After spending
+            21 years in South Africa, where he fought for civil rights, he had transformed into a new person and he returned
+            to India in 1915</item>
+
+        <item>After his long stay in South Africa and his activism against the racist policy of the British,
+            Gandhi had earned the reputation as a nationalist, theorist and organiser. Gopal Krishna Gokhale,
+            a senior leader of the Indian National Congress, invited Gandhi to join India\’s struggle for independence
+            against the British Rule. Gokhale thoroughly guided Mohandas Karamchand Gandhi about the prevailing political
+            situation in India and also the social issues of the time. He then joined the Indian National
+            Congress and before taking over the leadership in 1920, headed many agitations which he named Satyagraha.</item>
+
+        <item>The Champaran agitation in 1917 was the first major success of Gandhi after his arrival in India.
+            The peasants of the area were forced by the British landlords to grow Indigo, which was a cash crop,
+            but its demand had been declining. To make the matters worse, they were forced to sell their crops to
+            the planters at a fixed price. The farmers turned to Gandhiji for help. Pursuing a strategy of nonviolent
+            agitation, Gandhi took the administration by surprise and was successful in getting concessions from the
+            authorities. This campaign marked Gandhi\’s arrival in India!</item>
+
+        <item>Farmers asked the British to relax the payment of taxes as Kheda was hit by floods in 1918.
+            When the British failed to pay heed to the requests, Gandhi took the case of the farmers and led
+            the protests. He instructed them to refrain from paying revenues no matter what. Later, the British
+            gave in and accepted to relax the revenue collection and gave its word to Vallabhbhai Patel, who had
+            represented the farmers.</item>
+
+        <item>Gandhi had agreed to support the British during their fight in World War I.
+            But the British failed to grant independence post the war, as promised earlier,
+            and as a result of this Khilafat Movement was launched. Gandhi realized that Hindus
+            and Muslims must unite to fight the British and urged both the communities to show
+            solidarity and unity. But his move was questioned by many Hindu leaders. Despite the
+            opposition from many leaders, Gandhi managed to amass the support of Muslims. But as
+            the Khilafat Movement ended abruptly, all his efforts evaporated into thin air.</item>
+
+        <item>Non-cooperation Movement was one of Gandhi\’s most important movements against the British.
+            Gandhi\’s urged his fellow countrymen to stop co-operation with the British. He believed that
+            the British succeeded in India only because of the co-operation of the Indians. He had cautioned
+            the British not to pass the Rowlatt Act, but they did not pay any attention to his words and passed
+            the Act. As announced, Gandhiji asked everyone to start civil disobedience against the British.
+            The British began suppressing the civil disobedience movement by force and opened fire on a peaceful
+            crowd in Delhi. The British asked Gandhiji to not enter Delhi which he defied as a result of which he
+            was arrested and this further enraged people and they rioted. He urged people to show unity, non-violence
+            and respect for human life. But the British responded aggressively to this and arrested many protesters. "\n\n"
+            On 13 April 1919, a British officer, Dyer, ordered his forces to open fire on a peaceful gathering,
+            including women and children, in Amritsar\’s Jallianwala Bagh. As a result of this, hundreds of
+            innocent Hindu and Sikh civilians were killed. The incident is known as ‘Jallianwala Bagh Massacre\’.
+            But Gandhi criticized the protesters instead of blaming the English and asked Indians to use love
+            while dealing with the hatred of British. He urged the Indians to refrain from all kinds of non-violence
+            and went on fast-to-death to pressure Indians to stop their rioting.</item>
+
+        <item>The concept of non-cooperation became very popular and started spreading through the
+            length and breadth of India. Gandhi extended this movement and focused on Swaraj.
+            He urged people to stop using British goods. He also asked people to resign from government
+            employment, quit studying in British institutions and stop practicing in law courts.
+            However, the violent clash in Chauri Chaura town of Uttar Pradesh, in February 1922, forced
+            Gandhiji to call-off the movement all of a sudden. Gandhi was arrested on 10th March 1922 and
+            was tried for sedition. He was sentenced to six years imprisonment, but served only two years in prison.</item>
+
+        <item>During the period of 1920s, Mahatma Gandhi concentrated on resolving the wedge between the Swaraj
+            Party and the Indian National Congress. In 1927, British had appointed Sir John Simon as the head of
+            a new constitutional reform commission, popularly known as ‘Simon Commission’. There was not even a single
+            Indian in the commission. Agitated by this, Gandhi passed a resolution at the Calcutta Congress in December 1928,
+            calling on the British government to grant India dominion status. In case of non-compliance with this demand, the
+            British were to face a new campaign of non-violence, having its goal as complete independence for the country. The
+            resolution was rejected by the British. The flag of India was unfurled by the Indian national Congress
+            on 31st December 1929 at its Lahore session. January 26, 1930 was celebrated as the Independence Day of India."\n\n"
+            But the British failed to recognize it and soon they levied a tax on salt and Salt Satyagraha was launched
+            in March 1930, as an opposition to this move. Gandhi started the Dandi March with his followers in March,
+            going from Ahmedabad to Dandi on foot. The protest was successful and resulted in the Gandhi-Irwin Pact
+            in March 1931.</item>
+
+        <item>Post the Gandhi-Irwin Pact, Gandhi was invited to round table conferences by the British.
+            While Gandhi pressed for the Indian independence, British questioned Gandhi\’s motives and asked
+            him not to speak for the entire nation. They invited many religious leaders and B. R. Ambedkar
+            to represent the untouchables. The British promised many rights to various religious groups as well
+            as the untouchables. Fearing this move would divide India further, Gandhi protested against this by fasting.
+            After learning about the true intentions of the British during the second conference, he came up with another
+            Satyagraha, for which he was once again arrested.</item>
+
+        <item>As the World War II progressed, Mahatma Gandhi intensified his protests for the complete
+            independence of India. He drafted a resolution calling for the British to Quit India.
+            The \'Quit India Movement\' or the \'Bharat Chhodo Andolan\' was the most aggressive movement
+            launched by the Indian national Congrees under the leadership of Mahatma Gandhi.
+            Gandhi was arrested on 9th August 1942 and was held for two years in the Aga Khan Palace in Pune,
+            where he lost his secretary, Mahadev Desai and his wife, Kasturba. The Quit India Movement came to
+            an end by the end of 1943, when the British gave hints that complete power would be transferred
+            to the people of India. Gandhi called off the movement which resulted in the release
+            of 100,000 political prisoners.</item>
+
+        <item>The independence cum partition proposal offered by the British Cabinet Mission in 1946 was accepted
+            by the Congress, despite being advised otherwise by Mahatma Gandhi. Sardar Patel convinced Gandhi that
+            it was the only way to avoid civil war and he reluctantly gave his consent. After India\'s independence,
+            Gandhi focused on peace and unity of Hindus and Muslims. He launched his last fast-unto-death in Delhi,
+            and asked people to stop communal violence and emphasized that the payment of Rs. 55 crores, as per the
+            Partition Council agreement, be made to Pakistan. Ultimately, all political leaders conceded to his wishes
+            and he broke his fast.</item>
+
+        <item>The inspiring life of Mahatma Gandhi came to an end on 30th January 1948, when he was shot by a fanatic,
+            Nathuram Godse, at point-blank range. Nathuram was a Hindu radical, who held Gandhi responsible for
+            weakening India by ensuring the partition payment to Pakistan. Godse and his co-conspirator,
+            Narayan Apte, were later tried and convicted. They were executed on 15th November 1949. </item>
+
+        <item>Mahatma Gandhi proposed the acceptance and practice of truth, non-violence, vegetarianism,
+            Brahmacharya (celibacy), simplicity and faith in God. Though he would be remembered forever as
+            the man who fought for Indian independence, his greatest legacies are the tools he used in his fight
+            against the British. These methods inspired several other world leaders in their struggle against injustice.
+            His statues are installed all over the world and he is considered the most prominent
+            personality in Indian history.</item>
+
+        <item>The word Mahatma is often mistaken in the West as Gandhi\’s first name.
+            His extraordinary life inspired innumerable works of art in the field of literature,
+            art and showbiz. Many movies and documentaries have been made on the life of the Mahatma.
+            Post the Independence, Gandhi\’s image became the mainstay of Indian paper currency.</item>
+
+    </string-array>
+
+</resources>
